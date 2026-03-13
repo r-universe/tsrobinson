@@ -5,3 +5,6 @@
 [submodule "cjbart"]
 	path = cjbart
 	url = https://github.com/tsrobinson/cjbart
+[submodule "rMIDAS2"]
+	path = rMIDAS2
+	url = https://github.com/cran/rMIDAS2
